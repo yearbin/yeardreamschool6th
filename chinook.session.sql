@@ -1,0 +1,2 @@
+
+select title from albums ;
